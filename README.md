@@ -12,4 +12,4 @@ Este repositorio contiene manejo de creacion de base de datos en SQL Server 2025
 # Autor
 
 © Daniel Valencia
-Date: 16.11.2026
+Date: 16.11.2029
